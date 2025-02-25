@@ -1,3 +1,9 @@
+[![MacFolderStatusColors](https://img.youtube.com/vi/eT7y_V9Za8E/0.jpg)](https://youtu.be/eT7y_V9Za8E)
+
+## Mac Folder Status Colors - Demo Video
+This video showcases a demo of the Mac folder color-changing tool.
+
+
 # MacFolderStatusColors
 
 Mac folder icons with color-coded status indicators.  
