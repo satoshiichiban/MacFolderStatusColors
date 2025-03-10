@@ -17,7 +17,9 @@ Quickly distinguish project phases: **testing (green), development (red), clones
 | Brown | Emerald | Yellow-Green | Light Blue | Disk |
 |--------|--------|--------------|------------|------|
 | ![brown](icons/brown.png) | ![emerald](icons/emerald.png) | ![yellow-green](icons/yellow-green.png) | ![light-blue](icons/light-blue.png) | ![disk](icons/disk.png) |
+
 | Neon Orange |  |  |  |  |
+|--------------|----|----|----|----|
 | ![neon_orange](icons/neon_orange.png) |  |  |  |  |
 
 ## How to Use
