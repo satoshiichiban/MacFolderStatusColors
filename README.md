@@ -15,8 +15,10 @@ Quickly distinguish project phases: **testing (green), development (red), clones
 
 ## Icon Preview
 | Brown | Emerald | Yellow-Green | Light Blue | Disk |
-|-------|--------|-------------|------------|------|
-| ![](icons/brown.png) | ![](icons/emerald.png) | ![](icons/yellow_green.png) | ![](icons/light_blue.png) | ![](icons/disk01.png) |
+|--------|--------|--------------|------------|------|
+| ![brown](icons/brown.png) | ![emerald](icons/emerald.png) | ![yellow-green](icons/yellow-green.png) | ![light-blue](icons/light-blue.png) | ![disk](icons/disk.png) |
+| Neon Orange |  |  |  |  |
+| ![neon_orange](icons/neon_orange.png) |  |  |  |  |
 
 ## How to Use
 1. Open the `.png` file in **Preview.app**.
