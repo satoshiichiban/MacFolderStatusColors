@@ -18,9 +18,9 @@ Quickly distinguish project phases: **testing (green), development (red), clones
 |--------|--------|--------------|------------|------|
 | ![brown](icons/brown.png) | ![emerald](icons/emerald.png) | ![yellow_green](icons/yellow_green.png) | ![light-blue](icons/light_blue.png) | ![disk](icons/disk01.png) |
 
-| Neon Orange |  |  |  |  |
-|--------------|----|----|----|----|
-| ![neon_orange](icons/neon_orange.png) |  |  |  |  |
+| Neon Orange | Dummy 1 | Dummy 2 | Dummy 3 | Dummy 4 |
+|-----------------|-----------|-----------|-----------|-----------|
+| ![neon orange](icons/neon_orange.png) | ![dummy1](icons/dummy1.png) | ![dummy2](icons/dummy2.png) | ![dummy3](icons/dummy3.png) | ![dummy4](icons/dummy4.png) |
 
 ## How to Use
 1. Open the `.png` file in **Preview.app**.
