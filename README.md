@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="images/Welcome%20to%20your%20MacFolder%20World!!.png" width="100%">
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://youtu.be/eT7y_V9Za8E">
