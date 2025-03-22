@@ -1,10 +1,12 @@
 <p align="center">
+  <img src="images/Welcome%20to%20your%20MacFolder%20World!!.png" width="700px">
+</p>
+
+<p align="center">
   <a href="https://youtu.be/eT7y_V9Za8E">
     <img src="https://raw.githubusercontent.com/satoshiichiban/MacFolderStatusColors/main/images/start20250302.png" width="700px">
   </a>
 </p>
-
-![Welcome](images/Welcome%20to%20your%20MacFolder%20World!!.png)
 
 ## Mac Folder Status Colors - Demo Video
 This video showcases a demo of the Mac folder color-changing tool.
