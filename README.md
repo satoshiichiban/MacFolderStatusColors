@@ -4,6 +4,8 @@
   </a>
 </p>
 
+![Welcome](images/Welcome%20to%20your%20MacFolder%20World!!.png)
+
 ## Mac Folder Status Colors - Demo Video
 This video showcases a demo of the Mac folder color-changing tool.
 
