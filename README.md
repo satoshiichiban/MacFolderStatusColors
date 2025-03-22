@@ -1,3 +1,5 @@
+<p align="center">
+  <img src="images/Welcome%20to%20your%20MacFolder%20World!!.png" width="100%">
 </p>
 
 <br>
